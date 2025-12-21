@@ -5,6 +5,6 @@ I like to tinker with all sorts of stuff ranging from your basic web stuff to lo
 
 I hope you have fun taking a look at some of my projects. Well, if a majority of them aren't _private_, anyway.
 ## Current and Future Plans
-As of now, I'm trying to master **Python**.
+As of now, I'm trying to master **Python**, that mixed with some _math_.
 
 Some projects might not be in Python, but once I'm fully satisfied with my Python skills, I'll try to move onto C++!
